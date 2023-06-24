@@ -14,5 +14,12 @@ bayfiles: https://bayfiles.com/UdW3g3l0z6/CobaltStrike4_8_zip
 ### China download
 bilibili private message me🤪
 ## password --> sN6d8YOjwLSt2Koq
-video comment area 👍 Like my video
+
+
+start teamserver
+        sudo ./teamserver 192.168.54.176 123456
+                           local ip        password
+
+start client 
+        local ip and password
 https://www.bilibili.com/video/BV1Ua4y1N7N2
